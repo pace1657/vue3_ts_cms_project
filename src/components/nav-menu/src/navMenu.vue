@@ -2,7 +2,7 @@
   <div class="nav-menu">
     <div class="logo">
       <img class="logo-img" src="~@/assets/img/logo.svg" alt="logo" />
-      <span v-if="!isCollapse" class="logo-title">Vue3+TS</span>
+      <span v-if="!isCollapse" class="logo-title">Vue3+TS Admin</span>
     </div>
     <el-menu
       :default-active="defaultPath"
