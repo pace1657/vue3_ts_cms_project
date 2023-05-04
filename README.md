@@ -2,6 +2,12 @@
 
 ## Project setup
 
+### Account and Password
+```
+coderwhy
+123456
+```
+
 ```
 npm install
 ```
